@@ -1,0 +1,76 @@
+<resources>
+    <string name="app_name">Glide</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="note">"Note for Admin: Each user is allowed to create only one group. Please ensure that the group you create is relevant and aligns with the purpose of our platform. Creating multiple groups may lead to confusion and may not provide a meaningful experience for other users. Thank you for your understanding and cooperation.</string>
+
+    <!-- res/values/strings.xml -->
+
+    <string name="art_and_crafts_desc">Unleash your creativity and explore various art forms, from painting to sculpting and crafting unique masterpieces.</string>
+
+    <string name="cars_and_automobiles_desc">Rev up your passion for cars and automobiles with discussions on the latest models, modifications, and driving experiences.</string>
+
+    <string name="cooking_and_baking_desc">Savor the joy of cooking and baking as you share recipes, tips, and culinary adventures with fellow food enthusiasts.</string>
+
+    <string name="dancing_desc">Let the rhythm move you as you connect with dancers of all styles to share choreography, performances, and dance-related insights.</string>
+
+    <string name="education_and_learning_desc">Embrace the journey of lifelong learning and exchange knowledge across diverse subjects and disciplines.</string>
+
+    <string name="fashion_and_style_desc">Dive into the world of fashion and style, where trends, outfits, and accessories take center stage.</string>
+
+    <string name="gaming_desc">Level up your gaming experience by engaging in discussions about video games, gaming strategies, and online communities.</string>
+
+    <string name="gardening_and_planting_desc">Cultivate a green thumb and discover the joys of gardening, plant care, and horticultural tips.</string>
+
+    <string name="health_and_fitness_desc">Embrace a healthy lifestyle with fitness enthusiasts as you share workout routines, nutrition advice, and wellness tips.</string>
+
+    <string name="movies_and_tv_shows_desc">Lights, camera, action! Discuss your favorite movies and TV shows, from classics to the latest releases.</string>
+
+    <string name="music_desc">Harmonize with fellow music lovers to discuss genres, artists, and all things related to the world of music.</string>
+
+    <string name="outdoor_activities_desc">Connect with nature enthusiasts and embark on discussions about hiking, camping, and outdoor adventures.</string>
+
+    <string name="parenting_and_family_desc">Share the joys and challenges of parenting, family life, and raising children with supportive parents.</string>
+
+    <string name="pets_and_animals_desc">Celebrate the love for furry friends and exchange pet care advice and heartwarming animal stories.</string>
+
+    <string name="photography_desc">Frame your passion for photography as you showcase your work, exchange tips, and explore visual storytelling.</string>
+
+    <string name="reading_and_writing_desc">Immerse yourself in the world of literature by discussing books, poems, and creative writing.</string>
+
+    <string name="science_and_exploration_desc">Unravel the mysteries of the universe as you delve into scientific discoveries and space exploration.</string>
+
+    <string name="sports_desc">Cheer on your favorite teams and athletes while discussing sports events, scores, and the spirit of competition.</string>
+
+    <!-- res/values/strings.xml -->
+    <!-- res/values/strings.xml -->
+
+    <string name="technology_desc">Explore the world of cutting-edge tech and engage in discussions about gadgets, software, and the digital realm.</string>
+
+    <string name="travel_and_adventure_desc">Embark on thrilling journeys and exciting adventures as you share travel experiences and destination tips with fellow explorers.</string>
+
+
+    <string-array name="category_array">
+        <item>STEM (Science, Technology, Engineering, Mathematics)</item>
+        <item>Business and Economics</item>
+        <item>Social Sciences</item>
+        <item>Humanities and Arts</item>
+        <item>Health and Medicine</item>
+        <item>Languages and Linguistics</item>
+        <item>Education</item>
+        <item>Law and Legal Studies</item>
+        <item>Communication and Media</item>
+        <item>Environmental Studies</item>
+        <item>Design and Architecture</item>
+        <item>Philosophy and Ethics</item>
+        <item>History and Archaeology</item>
+        <item>Psychology</item>
+        <item>Agriculture and Natural Resources</item>
+        <item>Sports and Recreation</item>
+        <item>Gaming</item>
+        <item>Music</item>
+        <item>Other</item>
+    </string-array>
+
+
+</resources>

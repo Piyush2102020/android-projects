@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "925479588814",
+    "project_id": "agrodoc-4c3a7",
+    "storage_bucket": "agrodoc-4c3a7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:925479588814:android:abecf14181fae40128119f",
+        "android_client_info": {
+          "package_name": "com.example.agrodoc"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATY-SUn7eZUGGwUjSpnYZfmaYwAZiW6c0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

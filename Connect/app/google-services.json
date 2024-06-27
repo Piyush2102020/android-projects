@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "902395307255",
+    "project_id": "dhaga-8562b",
+    "storage_bucket": "dhaga-8562b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:902395307255:android:5168e8d206f04f6636dff2",
+        "android_client_info": {
+          "package_name": "com.example.connect"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "902395307255-rlmes6dj3b6b86bd3dic0ut910lcglk3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.connect",
+            "certificate_hash": "b84f19d6482514bdd8b22798eab737fc2f666c1b"
+          }
+        },
+        {
+          "client_id": "902395307255-2ofrcabkputh9h7u6vtg5pifvsaeqhou.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwWoLceJ-d2uVCpn8A_MjR4KcsVaVmngw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "902395307255-2ofrcabkputh9h7u6vtg5pifvsaeqhou.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

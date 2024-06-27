@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- res/values/dimens.xml -->
+
+<resources>
+    <dimen name="button_height">48dp</dimen>
+    <dimen name="description_text_size">13sp</dimen>
+
+    <style name="PurpleButtonStyle">
+
+        <item name="android:textColor">@color/white</item>
+    </style>
+
+
+    <style name="bnStyle" parent="Widget.Design.BottomNavigationView">
+
+        <item name="itemIconTint">@color/bn_color</item>
+    </style>
+
+
+    <style name="CustomBottomNavigationStyle" parent="Widget.Design.BottomNavigationView">
+        <!-- Customize background color for the BottomNavigationView -->
+
+
+        <!-- Customize icon and text color for selected item -->
+        <item name="itemIconTint">@color/main</item>
+
+
+        <!-- Customize icon and text color for not-selected item -->
+
+
+    </style>
+
+
+    <style name="AppTheme" parent="Theme.MaterialComponents.NoActionBar">
+        <!-- Customize your theme attributes here -->
+        <item name="colorPrimaryVariant">@color/grey</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">@color/teal_200</item>
+        <item name="colorSecondaryVariant">@color/teal_700</item>
+        <item name="colorOnSecondary">@color/grey</item>
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor">@color/black</item>
+    </style>
+
+    <style name="chip_color" parent="Widget.MaterialComponents.Chip.Choice">
+        <item name="android:textColor" >@color/text_color</item>
+        <item name="iconTint">@color/icon_color</item>
+        <item name="background">@color/chip_back</item>
+        <item name="android:background">@color/chip_back</item>
+    </style>
+
+    <style name="spinner" parent="Widget.AppCompat.Spinner">
+
+        <item name="colorAccent">@color/black</item>
+        <item name="icon" > @color/black</item>
+    </style>
+
+    <style name="button" parent="Widget.AppCompat.Button">
+
+        <item name="android:textColor" >#000000</item>
+        <item name="background">@drawable/btn</item>
+
+    </style>
+</resources>
+
